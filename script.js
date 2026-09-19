@@ -171,7 +171,7 @@ const gifts = [
   },
   {
     id: 2,
-    name: "Cafeteira Eletrica",
+    name: "Cafeteira eletrica",
     link: "https://loja.electrolux.com.br/cafeteira-eletrica-electrolux-15-xicaras-efficient--ecm10-/p?idsku=310118786",
     contact: false
   },
@@ -238,7 +238,7 @@ const gifts = [
   {
     id: 13,
     name: "Jogo de talheres",
-    link: "https://www.mercadolivre.com.br/kit-talheres-dourados-aco-inox-24-pecas-dourado/up/MLBU5120573726#polycard_client=recommendations_vpp-pdp-v2p-pom&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=vpp-pdp-v2p-pom&reco_item_pos=2&reco_backend_type=low_level&reco_id=a6821980-b5df-4ce2-a084-c6858a1e8178&wid=MLB5191452379&sid=recos",
+    link: "https://www.mercadolivre.com.br/kit-talheres-30-pecas-jogo-de-talheres-inoxidavel-faqueiro/up/MLBU3957198585#reviews",
     contact: false
   },
   {
@@ -623,6 +623,12 @@ const gifts = [
     id: 77,
     name: "Jarra",
     link: "https://www.mercadolivre.com.br/jarra-graffiato-de-vidro-12l-bebidas-refeicao-cozinha-mesa/up/MLBU3186424279?pdp_filters=item_id:MLB5399208500#polycard_client=recommendations_vip-pads-right&wid=MLB5399208500&sid=recos&reco_backend=pads_ranker_entity_v2_retrieval_system_vip_pads_up&reco_model=fallback_productos-promocionados&reco_client=vip-pads-right&reco_item_pos=2&reco_backend_type=low_level&reco_id=b338c37d-8861-4a6d-ad52-0fa17dd35838&is_advertising=true&ad_domain=VIPCORE_RIGHT&ad_position=3&ad_click_id=YTJjOWFiMTAtM2IxYy00OTI1LWIxNGEtZWNjNDdkMWRiMzNm",
+    contact: false
+  },
+   {
+    id: 78,
+    name: "Conjunto de mantimentos",
+    link: "https://www.mercadolivre.com.br/3-potes-hermetico-inox-vidro-1l-etiq-cafe-acucar-sal-black/up/MLBU3668145368?pdp_filters=item_id%3AMLB6022119318&from=gshop&matt_tool=22783954&matt_word=&matt_source=google&matt_campaign_id=23351282105&matt_ad_group_id=193694047407&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871588780&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5692253658&matt_product_id=MLBU3668145368&matt_product_partition_id=2493898491089&matt_target_id=pla-2493898491089&cq_src=google_ads&cq_cmp=23351282105&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23351282105&gbraid=0AAAAAD93qcCeGWHe-zVd5B2NaURXh2yla&gclid=Cj0KCQjw5bjVBhCiARIsAJzMVnR2N-J4E3cQrAsI3d5pxU5L8-OtUz0cTEMg_cJgGHYRR2z42Q5db_4aAsKHEALw_wcB",
     contact: false
   },
 ];
