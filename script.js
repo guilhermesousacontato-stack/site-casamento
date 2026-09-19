@@ -555,7 +555,7 @@ const gifts = [
   },
   {
     id: 66,
-    name: "Tanque",
+    name: "Tanque de inox",
     link: "https://www.mercadolivre.com.br/tanque-inox-ghelplus-mini-32l-com-suporte-e-saboneteira/p/MLB28028083?pdp_filters=item_id%3AMLB6975927200&from=gshop&matt_tool=94591846&matt_word=&matt_source=google&matt_campaign_id=23440873638&matt_ad_group_id=197094167411&matt_match_type=&matt_network=g&matt_device=c&matt_creative=792396421852&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB28028083-product&matt_product_partition_id=2492481209422&matt_target_id=pla-2492481209422&cq_src=google_ads&cq_cmp=23440873638&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=23440873638&gbraid=0AAAAAD93qcA5scYkHR6Bgq-XNWR_0kzIn&gclid=EAIaIQobChMI_IGh3vrwlgMVwFBIAB2ltTyOEAQYASABEgLHQPD_BwE#reviews",
     contact: false
   },
