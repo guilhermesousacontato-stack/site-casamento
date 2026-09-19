@@ -219,7 +219,7 @@ const gifts = [
   },
   {
     id: 10,
-    name: "Panela elétrica",
+    name: "Panela de pressão elétrica",
     link: "https://loja.electrolux.com.br/panela-de-pressao-eletrica-electrolux-inox-3l-efficient-por-rita-lobo--pce15-/p?idsku=310119820",
     contact: false
   },
